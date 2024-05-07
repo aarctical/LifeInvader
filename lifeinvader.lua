@@ -8,10 +8,10 @@ Citizen.CreateThread(function()
     TriggerClientEvent('chat:addSuggestion', '/setlife', 'LifeInvader', {
         {name="LifeInvader handle",help="Set your LifeInvader handle"}
     })
-    TriggerEvent('chat:addSuggestion', '/life', 'LifeInvader', {
+    TriggerClientEvent('chat:addSuggestion', '/life', 'LifeInvader', {
         {name="LifeInvader status",help="Send a message to LifeInvader"}
     })
-    TriggerEvent('chat:addSuggestion', '/resetlife', 'LifeInvader', {
+    TriggerClientEvent('chat:addSuggestion', '/resetlife', 'LifeInvader', {
         {name="LifeInvader handle reset",help="Reset your LifeInvader handle"}
     })
 end)
