@@ -20,3 +20,7 @@ This is how it will show on discord:
 
 - App Title: Player's in-game name (By steam or settings)
 - Message: Player's in-game handle (What they set) and their Server ID, and their message
+
+
+
+[DISCORD SUPPORT](https://discord.gg/RsRr2J8wws)
