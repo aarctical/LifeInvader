@@ -14,9 +14,9 @@ Comes with a Config
 
 `ChatResourceName` (STRING) What the resource will call itself in chat.
 
+This is how it will show on discord:
 
 ![image](https://github.com/aarctical/LifeInvader/assets/51374718/2f53b8fb-2230-4d2b-af8c-24438e98fd6e)
 
-This is how it will show on discord:
 - App Title: Player's in-game name (By steam or settings)
 - Message: Player's in-game handle (What they set) and their Server ID, and their message
