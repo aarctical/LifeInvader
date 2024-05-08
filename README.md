@@ -2,7 +2,7 @@ Basic 'LifeInvader' script for FiveM
 
 Add `ensure LifeInvader` (or whatever you name the folder containing these 2 files) into your **server.cfg** file.
 
-Do not edit, copy or redistribute this script without my permission.
+Do not edit, copy or redistribute this script without reading the license or contacting me for permission.
 
 Isn't made for sparkles and shines, it's very basic, but works fine.
 
